@@ -1,0 +1,107 @@
+﻿{
+  "aaapplication": {
+    "log": "none",
+    "report": "none"
+  },
+  "server": [
+    {
+      "Name": "TS-SV101",      
+      "Dailydmp": {
+        "SourcePath": "\\\\PROD-NAS-001\\DailyDump",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "ArchiveBackup": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "S7": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "PBServer": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "MVA": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      }
+    },
+    {
+      "Name": "ULYA-SV201",      
+      "Dailydmp": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "ArchiveBackup": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "S7": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "PBServer": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "MVA": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      }
+    },
+    {
+      "Name": "ULYA-SV01",      
+      "Dailydmp": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "ArchiveBackup": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "S7": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "PBServer": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      },
+      "MVA": {
+        "SourcePath": "",
+        "TargetPath": "",
+        "Archiving": false,
+        "Backup": false
+      }
+    }
+  ]
+}

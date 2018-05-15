@@ -1,0 +1,38 @@
+5/14/2018 4:56:15 PM - Autobackup : started byProLeiT-DSO
+      - TS-SV101 : backuping
+           - Daily dump : executing
+                - BackUp : enabled
+                - Source path : E:\C#\PlantiT.Extensions\AutoBackUp\Test\Source\DailyBackUp.txt
+                - Target path : E:\C#\PlantiT.Extensions\AutoBackUp\Test\Source
+                - Archiving : Disabled
+           - Archive backup : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/14/2018 4:56:20 PM - Autobackup : finished in 00:00:05.68
+5/14/2018 5:00:22 PM - Autobackup : started byProLeiT-DSO
+      - TS-SV101 : backuping
+           - Daily dump : executing
+                - BackUp : enabled
+                - Source path : E:\C#\PlantiT.Extensions\AutoBackUp\Test\Source\DailyBackUp.txt
+                - Target path : E:\C#\PlantiT.Extensions\AutoBackUp\Test\Source
+                - Archiving : Disabled
+           - Archive backup : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/14/2018 5:00:28 PM - Autobackup : finished in 00:00:05.67
