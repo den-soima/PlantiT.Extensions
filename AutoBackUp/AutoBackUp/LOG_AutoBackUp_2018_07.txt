@@ -1,0 +1,22 @@
+           AutoBackUp LOG: Created - 10-Jul-18 9:42:32 AM (DSO - ProLeiT)
+10-Jul-18 9:42:32 AM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+10-Jul-18 9:42:41 AM - Autobackup : finished in 00:00:09.63

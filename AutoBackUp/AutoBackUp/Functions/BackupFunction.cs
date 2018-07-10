@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Threading;
 using System.IO;
 using System.IO.Compression;
 using AutoBackUp.Models;
@@ -8,9 +8,10 @@ using AutoBackUp.Application;
 namespace AutoBackUp.Functions
 {
     public static class BackupFunction
-    {
+    {     
         public static void ExecuteBackup(BackupItem backupItem)
-        {
+        {          
+
             if (!backupItem.Backup)
             {
                 LogHandler.WriteLog("BackUp", "disabled", 3);
@@ -71,5 +72,6 @@ namespace AutoBackUp.Functions
         {
             return value < 10 ? "0" + value.ToString() : value.ToString();
         }
+
     }
 }

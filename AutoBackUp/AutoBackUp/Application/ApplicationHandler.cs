@@ -35,7 +35,7 @@ namespace AutoBackUp.Application
             
             LogHandler.WriteLog("Autobackup", "finished in " + $"{elapsedTime:hh\\:mm\\:ss\\.ff}", 0);
 
-            Console.WriteLine("Total passed time " + $"{elapsedTime:hh\\:mm\\:ss\\.ff}");
+            Console.WriteLine("Total passed time   " + $"{elapsedTime:hh\\:mm\\:ss\\.ff}");
         }   
     }
 }

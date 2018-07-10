@@ -47,8 +47,7 @@ namespace AutoBackUp
             ApplicationHandler appHandler = new ApplicationHandler(appJson.Application, appJson.Server);
 
             Console.WriteLine();
-            Console.WriteLine("AutoBackuping Finished");
-            Console.ReadLine();
+            Console.WriteLine("AutoBackuping Finished");           
         }
     }
 }

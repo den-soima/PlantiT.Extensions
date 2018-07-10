@@ -1,11 +1,13 @@
-5/14/2018 4:56:15 PM - Autobackup : started byProLeiT-DSO
+5/15/2018 5:28:20 PM - Autobackup : started by ProLeiT-DSO
       - TS-SV101 : backuping
-           - Daily dump : executing
+           - Dailydmp : executing
                 - BackUp : enabled
-                - Source path : E:\C#\PlantiT.Extensions\AutoBackUp\Test\Source\DailyBackUp.txt
-                - Target path : E:\C#\PlantiT.Extensions\AutoBackUp\Test\Source
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
                 - Archiving : Disabled
-           - Archive backup : executing
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
                 - BackUp : disabled
            - S7 : executing
                 - BackUp : enabled
@@ -16,15 +18,17 @@
                 - BackUp : disabled
            - MVA : executing
                 - BackUp : disabled
-5/14/2018 4:56:20 PM - Autobackup : finished in 00:00:05.68
-5/14/2018 5:00:22 PM - Autobackup : started byProLeiT-DSO
+5/15/2018 5:28:27 PM - Autobackup : finished in 00:00:07.27
+5/15/2018 5:49:34 PM - Autobackup : started by ProLeiT-DSO
       - TS-SV101 : backuping
-           - Daily dump : executing
+           - Dailydmp : executing
                 - BackUp : enabled
-                - Source path : E:\C#\PlantiT.Extensions\AutoBackUp\Test\Source\DailyBackUp.txt
-                - Target path : E:\C#\PlantiT.Extensions\AutoBackUp\Test\Source
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
                 - Archiving : Disabled
-           - Archive backup : executing
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
                 - BackUp : disabled
            - S7 : executing
                 - BackUp : enabled
@@ -35,4 +39,275 @@
                 - BackUp : disabled
            - MVA : executing
                 - BackUp : disabled
-5/14/2018 5:00:28 PM - Autobackup : finished in 00:00:05.67
+5/15/2018 5:49:41 PM - Autobackup : finished in 00:00:07.70
+5/15/2018 5:50:06 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/15/2018 5:50:14 PM - Autobackup : finished in 00:00:08.14
+5/16/2018 10:52:05 AM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/16/2018 10:52:14 AM - Autobackup : finished in 00:00:09.25
+5/16/2018 2:39:35 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+5/16/2018 2:39:38 PM - Backuping error : System.PlatformNotSupportedException: Thread abort is not supported on this platform.
+   at System.Threading.Thread.Abort()
+   at AutoBackUp.Functions.BackupFunction.ExecuteBackup(BackupItem backupItem) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Functions\BackupFunction.cs:line 60
+   at AutoBackUp.Application.ServerHandler..ctor(ServerSettings _serverSettings) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Application\ServerHandler.cs:line 27
+5/16/2018 2:39:38 PM - Autobackup : finished in 00:00:02.54
+5/16/2018 2:41:57 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+5/16/2018 2:42:00 PM - Backuping error : System.PlatformNotSupportedException: Thread abort is not supported on this platform.
+   at System.Threading.Thread.Abort()
+   at AutoBackUp.Functions.BackupFunction.ExecuteBackup(BackupItem backupItem) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Functions\BackupFunction.cs:line 60
+   at AutoBackUp.Application.ServerHandler..ctor(ServerSettings _serverSettings) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Application\ServerHandler.cs:line 27
+5/16/2018 2:42:00 PM - Autobackup : finished in 00:00:02.49
+5/16/2018 2:47:13 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+5/16/2018 2:47:16 PM - Backuping error : System.PlatformNotSupportedException: Thread abort is not supported on this platform.
+   at System.Threading.Thread.Abort()
+   at AutoBackUp.Functions.BackupFunction.ExecuteBackup(BackupItem backupItem) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Functions\BackupFunction.cs:line 60
+   at AutoBackUp.Application.ServerHandler..ctor(ServerSettings _serverSettings) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Application\ServerHandler.cs:line 27
+5/16/2018 2:47:16 PM - Autobackup : finished in 00:00:02.57
+5/16/2018 2:47:28 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+5/16/2018 2:47:31 PM - Backuping error : System.PlatformNotSupportedException: Thread abort is not supported on this platform.
+   at System.Threading.Thread.Abort()
+   at AutoBackUp.Functions.BackupFunction.ExecuteBackup(BackupItem backupItem) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Functions\BackupFunction.cs:line 60
+   at AutoBackUp.Application.ServerHandler..ctor(ServerSettings _serverSettings) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Application\ServerHandler.cs:line 27
+5/16/2018 2:47:31 PM - Autobackup : finished in 00:00:02.51
+5/16/2018 2:50:26 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+5/16/2018 2:50:28 PM - Backuping error : System.PlatformNotSupportedException: Thread abort is not supported on this platform.
+   at System.Threading.Thread.Abort()
+   at AutoBackUp.Functions.BackupFunction.ExecuteBackup(BackupItem backupItem) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Functions\BackupFunction.cs:line 60
+   at AutoBackUp.Application.ServerHandler..ctor(ServerSettings _serverSettings) in E:\C#\PlantiT.Extensions\AutoBackUp\AutoBackUp\Application\ServerHandler.cs:line 27
+5/16/2018 2:50:28 PM - Autobackup : finished in 00:00:02.14
+5/16/2018 2:52:38 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/16/2018 2:52:46 PM - Autobackup : finished in 00:00:07.76
+5/16/2018 2:54:42 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/16/2018 2:54:50 PM - Autobackup : finished in 00:00:07.82
+5/16/2018 2:55:12 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/16/2018 2:55:20 PM - Autobackup : finished in 00:00:08.12
+5/16/2018 2:58:25 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+5/16/2018 2:58:49 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+5/16/2018 2:59:15 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/16/2018 2:59:23 PM - Autobackup : finished in 00:00:07.73
+5/16/2018 3:08:56 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+5/16/2018 3:35:23 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+5/16/2018 3:59:59 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+5/16/2018 4:00:07 PM - Autobackup : finished in 00:00:07.80

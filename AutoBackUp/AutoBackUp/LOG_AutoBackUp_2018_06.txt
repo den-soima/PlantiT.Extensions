@@ -1,0 +1,85 @@
+           AutoBackUp LOG: Created - 6/4/2018 5:04:28 PM (DSO - ProLeiT)
+6/4/2018 5:04:28 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+6/4/2018 5:04:39 PM - Autobackup : finished in 00:00:10.55
+6/4/2018 5:05:57 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+6/4/2018 5:06:04 PM - Autobackup : finished in 00:00:07.08
+6/4/2018 5:06:31 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+6/4/2018 5:06:38 PM - Autobackup : finished in 00:00:06.75
+6/4/2018 5:06:51 PM - Autobackup : started by ProLeiT-DSO
+      - TS-SV101 : backuping
+           - Dailydmp : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\PlantiTBackup(ULYA-SV201)_20180305_1458.ZIP
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Disabled
+           - ArchiveBackupFull : executing
+                - BackUp : disabled
+           - ArchiveBackupDiff : executing
+                - BackUp : disabled
+           - S7 : executing
+                - BackUp : enabled
+                - Source path : D:\PROJECTS\ULYA\Backup\UlyBeer
+                - Target path : D:\PROJECTS\ULYA\Backup
+                - Archiving : Enabled
+           - PBServer : executing
+                - BackUp : disabled
+           - MVA : executing
+                - BackUp : disabled
+6/4/2018 5:06:58 PM - Autobackup : finished in 00:00:06.86
